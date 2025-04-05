@@ -1,0 +1,10 @@
+La explicacion de mis commits es que fue realizando cada uno de los pasos mientras actualizaba el documento 
+
+utilice 
+
+git add . ya que abri el git bash desde la carpeta donde los tenia almacenados 
+luego utilice el git commit -m "descripcion de los commits" es una etiqueta para nombrar brevemente los cambios
+y luego utilice el git push para que mis archivos o cambios se subieran.
+
+y esa es toda mi explicacion 
+saludos Ing. que tenga buen dia, tarde o noche.
